@@ -1,2 +1,2 @@
-# telegram-ai-bot
+# telegram-content-assistant
 Bot
